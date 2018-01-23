@@ -39,7 +39,7 @@ If the output looks something like this, you're in good shape:
 
 Once you are sure Ruby is installed, enter this into the terminal:
 
-`gem install t`
+`sudo gem install t`
 
 ## Chrome Browser
 
