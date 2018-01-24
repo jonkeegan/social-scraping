@@ -56,5 +56,7 @@ https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepng
 
 If you get stuck, just remember what happened, ands take a screenshot and we should be able to get everyone working for the session.
 
+## A good text editor: Atom
+https://atom.io/
 
 
