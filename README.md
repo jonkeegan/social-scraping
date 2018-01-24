@@ -24,8 +24,15 @@ In the terminal type:
 
 Once that is complete, installation of command lines tools are much, much simpler.
 
+For example, to install NodeJS, just type: 
 `brew install node`
+
+Or to install wget:
 `brew install wget`
+
+And the best part, very easy uninstalls:
+`brew uninstall node`
+
 
 Install "t" the Twitter command line client. (The follwing instructions are from the GitHub page of the creator https://github.com/sferik/t)
 
