@@ -24,8 +24,8 @@ In the terminal type:
 
 Once that is complete, installation of command lines tools are much, much simpler.
 
-brew install node
-brew install wget
+`brew install node`
+`brew install wget`
 
 Install "t" the Twitter command line client. (The follwing instructions are from the GitHub page of the creator https://github.com/sferik/t)
 
