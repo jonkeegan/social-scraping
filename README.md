@@ -16,7 +16,7 @@ Enter the following text:
 
 You will get a prompt to reads: "Get Xcode", "Cancel" or "Install". Skip installing the entire Xcode application. Choose install to get just the (smaller) command line tools. 
 
-Once that has all been installed (may take a while), you will imstall "Homebrew" which is a software package manager for the Mac. Sort of like an app store for code. 
+Once that has all been installed (may take a while), you will install "Homebrew" which is a software package manager for the Mac. Sort of like an app store for code. 
 
 In the terminal type: 
 
